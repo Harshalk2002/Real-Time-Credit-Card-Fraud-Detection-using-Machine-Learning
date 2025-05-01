@@ -58,11 +58,7 @@ Credit card fraud causes over **$28B in global losses annually**, requiring adva
 - Dataset spans only 48 hours — lacks seasonality insights.
 - Future: integrate temporal features, SMOTE/ADASYN, ensemble methods like autoencoders.
 
-## 👥 Contributors
 
-- Harshal Kamble  
-- Vishnu Sankhyan  
-- Abhay Prabhakar
 
 ## 📄 License
 
