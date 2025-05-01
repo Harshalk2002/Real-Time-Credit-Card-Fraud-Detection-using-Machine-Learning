@@ -4,8 +4,8 @@ A machine learning pipeline designed to detect fraudulent credit card transactio
 
 ## 📂 Project Structure
 
-- `Untitled.ipynb` – Full notebook with data exploration, preprocessing, model training, tuning, and evaluation.
-- `Fraud Detection in Credit Card Transactions.pdf` – Final project report.
+- `Fraud_detection.ipynb` – Full notebook with data exploration, preprocessing, model training, tuning, and evaluation.
+- `Fraud Detection in Credit Card Transactions(Report).pdf` – Final project report.
 - `machine learning final presentation.pdf` – Presentation slides outlining problem, model choices, results, and business impact.
 
 ## 🧠 Problem Statement
